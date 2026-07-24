@@ -26,6 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhimel46&show_icons=true&locale=en&layout=compact" alt="abdullahhimel46" /></p>
 
+<!-- ২. Activity Graph (অফিশিয়াল ও মোস্ট স্টেবল বিকল্প) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahhimel46&theme=github&hide_border=true" alt="Activity Graph" />
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahhimel46&show_icons=true&locale=en" alt="abdullahhimel46" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhimel46&" alt="abdullahhimel46" /></p>
