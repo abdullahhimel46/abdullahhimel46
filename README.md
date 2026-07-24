@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahhimel46" alt="abdullahhimel46" /></a> </p>
 
-- 🔭 I’m currently working on **Anonymous feedback platform**
+- 🔭 I’m currently working on **cogneLearn - A self guided adaptive learning platform**
 
 - 🌱 I’m currently learning **Java Spring Boot Development**
 
