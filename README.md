@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahhimel46&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahhimel46" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahhimel46" alt="abdullahhimel46" /></a> </p>
+<!-- ১. প্রথম পরিবর্তন: Trophy এর বিকল্প মিরর লিংক -->
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=abdullahhimel46" alt="abdullahhimel46" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **cogneLearn - A self guided adaptive learning platform**
 
