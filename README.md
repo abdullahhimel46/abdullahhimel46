@@ -33,4 +33,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahhimel46&show_icons=true&locale=en" alt="abdullahhimel46" /></p>
 
+<!-- ৩. Streak Stats (Demolab Domain - এটি সব থেকে বেশি আপটাইম দেয়) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullahhimel46&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhimel46&" alt="abdullahhimel46" /></p>
