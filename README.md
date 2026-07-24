@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahhimel46&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahhimel46" /> </p>
 
-<!-- ১. ট্রফির বদলে ১০০% স্ট্যাবল ব্যাজ (কখনোই ভাঙবে না) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-Profile_Trophies-blue?style=flat-square&logo=github" alt="trophy-badge" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&animation=fadeIn" alt="header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vcenter=true&width=435&lines=Java+%26+Spring+Boot+Developer;Building+cogneLearn;Backend+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on **cogneLearn - A self guided adaptive learning platform**
@@ -27,9 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhimel46&show_icons=true&locale=en&layout=compact" alt="abdullahhimel46" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahhimel46&show_icons=true&locale=en" alt="abdullahhimel46" /></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vcenter=true&width=435&lines=Java+%26+Spring+Boot+Developer;Building+cogneLearn;Backend+Engineering+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhimel46&" alt="abdullahhimel46" /></p>
