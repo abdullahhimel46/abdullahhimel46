@@ -26,16 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhimel46&show_icons=true&locale=en&layout=compact" alt="abdullahhimel46" /></p>
 
-<!-- ২. Activity Graph (অফিশিয়াল ও মোস্ট স্টেবল বিকল্প) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahhimel46&theme=github&hide_border=true" alt="Activity Graph" />
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahhimel46&show_icons=true&locale=en" alt="abdullahhimel46" /></p>
 
-<!-- ৩. Streak Stats (Demolab Domain - এটি সব থেকে বেশি আপটাইম দেয়) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullahhimel46&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vcenter=true&width=435&lines=Java+%26+Spring+Boot+Developer;Building+cogneLearn;Backend+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhimel46&" alt="abdullahhimel46" /></p>
